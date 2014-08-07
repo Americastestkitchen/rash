@@ -1,7 +1,7 @@
 require 'hashie/mash'
 
 module Hashie
-  class Rash < Mash
+  class Crash < Mash
 
     protected
 
